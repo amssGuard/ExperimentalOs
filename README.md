@@ -57,9 +57,7 @@ Segment selectors are 16-bit values used in protected mode.
 - TI = `0` (GDT)
 - RPL = `0` (Ring 0 — kernel mode)
 
-```text
-Selector = (Index * 8) + (TI << 2) + RPL
-````
+
 
 ---
 
