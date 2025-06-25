@@ -26,7 +26,6 @@ This header must appear within the first 8 KiB of the kernel binary so GRUB can 
 +--------------------+
 | return address     | <- inserted by call
 +--------------------+
-
 ```
 The call stack will look like this when [kernelMain(void* mb, uint32_t magic)] is called. This matches the function signature exactly.
 _____________________________________________________
