@@ -1,7 +1,12 @@
 
 #  ExperimentalOS
 
-A lightweight experimental kernel written in C++ and assembly. This documentation explains key parts of the boot process, multiboot header, stack setup, and GDT configuration used to enter protected mode.
+adoKern is a lightweight experimental kernel written in C++ and assembly, named in honor of someone special. This documentation explains key parts of its boot process, Multiboot header, stack setup, and GDT configuration used to enter protected mode.
+
+-📺 Boot Message: The first visible line printed by adoKern is:
+   hello world(ado)
+
+—a tribute embedded into the soul of the system.
 
 ---
 
