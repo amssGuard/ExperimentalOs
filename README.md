@@ -6,7 +6,7 @@ adoKern is a lightweight experimental kernel written in C++ and assembly, named 
 -📺 Boot Message: The first visible line printed by adoKern is:
    hello world(ado)
 
-—a tribute embedded into the soul of the system.
+-a tribute embedded into the soul of the system.
 
 ---
 
